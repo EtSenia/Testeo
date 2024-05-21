@@ -4,7 +4,7 @@
   }
   
   ::-webkit-scrollbar-track {
-    background: orange; /* Color de la zona de desplazamiento */
+    background: #2389fc; /* Color de la zona de desplazamiento */
   }
   
   ::-webkit-scrollbar-thumb {
@@ -19,7 +19,7 @@
 }
 body{
     scrollbar-width: thin;
-    scrollbar-color: #001F3F orange;
+    scrollbar-color: #001F3F #2389fc;
     margin: 0;
     padding: 0;
     font-family: "Roboto";
