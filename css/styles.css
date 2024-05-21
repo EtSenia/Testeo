@@ -1,16 +1,14 @@
-/* Para Chrome, Edge y Safari */
 ::-webkit-scrollbar {
-    width: 12px; /* Ancho de la barra de desplazamiento */
+    width: 12px;
   }
   
   ::-webkit-scrollbar-track {
-    background: #2389fc; /* Color de la zona de desplazamiento */
+    background: #2389fc;
   }
   
   ::-webkit-scrollbar-thumb {
-    background-color: #001F3F; /* Color de la barra de desplazamiento */
-    border-radius: 20px; /* Redondez de la barra de desplazamiento */
-    /*border: 3px solid orange; /* Crea un padding alrededor de la barra de desplazamiento */
+    background-color: #001F3F;
+    border-radius: 20px;
   }
 
 *{    
